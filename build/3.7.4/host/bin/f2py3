@@ -1,0 +1,4 @@
+#!/src/cpython/build/3.7.4/host/bin/python3
+# EASY-INSTALL-SCRIPT: 'numpy==1.15.1','f2py3'
+__requires__ = 'numpy==1.15.1'
+__import__('pkg_resources').run_script('numpy==1.15.1', 'f2py3')
